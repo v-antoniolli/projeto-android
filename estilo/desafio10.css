@@ -148,6 +148,7 @@ nav a:hover{
   margin:10px auto;
   font-size: 32px;
   text-shadow: 3px 3px 0px black;
+  padding-bottom: 20px;
 }
 .H1Main{
   color:var(--cor5) ;
